@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="hint_enter_text">Nhập văn bản&#8230;</string>
+    <string name="btn_speak">Đọc</string>
+</resources>
